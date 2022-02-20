@@ -12,6 +12,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Prodoct List
 ![list-produit](https://user-images.githubusercontent.com/55744826/154862027-af194358-40b3-4e8a-a3a3-e6ced11135ca.PNG)
 
+## Technologie
+* Angular 9 
+* HTML
+* CSS
+* TYPESCRIPT
+* Firebase
+* Boostrap
 
 ## Development server
 
