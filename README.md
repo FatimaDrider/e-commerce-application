@@ -9,8 +9,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![login2](https://user-images.githubusercontent.com/55744826/154861982-55909bd9-c35d-416d-a3ff-a6df750b69da.PNG)
 ### Register
 ![login](https://user-images.githubusercontent.com/55744826/154862003-0a5726fd-0986-4732-a11b-9b1fe55f9b35.PNG)
-### Prodoct List
-![list-produit](https://user-images.githubusercontent.com/55744826/154862027-af194358-40b3-4e8a-a3a3-e6ced11135ca.PNG)
 
 ## Technologie
 * Angular 9 
